@@ -1,0 +1,26 @@
+{
+  "name": "king-thala",
+  "version": "1.0.0",
+  "description": "Hey luv<3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Girdharilal-aiml/king-Thala.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Girdharilal-aiml/king-Thala/issues"
+  },
+  "homepage": "https://github.com/Girdharilal-aiml/king-Thala#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.1",
+    "moment": "^2.30.1",
+    "simple-git": "^3.36.0"
+  }
+}
